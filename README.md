@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👨‍💻 Front-End Projects:
+* Pepsi Landing Page: 
+https://github.com/Targemac/Pepsi-Landing-Page
+
 * Zenith Bank Clone: 
 https://github.com/Targemac/zenith-bank-project
 
