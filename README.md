@@ -37,11 +37,9 @@ https://github.com/Targemac/digital-calculator
 https://github.com/Targemac/quote-generator
 
 ## 👨‍💻 Responsive Design Projects:
-* V1:
-https://github.com/Targemac/responsive-design-v1
+* V1: https://github.com/Targemac/responsive-design-v1
 
-* V2:
-https://github.com/Targemac/responsive-design-v2 
+* V2: https://github.com/Targemac/responsive-design-v2 
 
 
 ## 👨‍💻 Back-End Projects:
